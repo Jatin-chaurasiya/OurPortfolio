@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/demo1.png",
+    "description": "(Projects) SkillDrift is an app aimed at skill enhancement and professional development.",
+    "skills": ["Tailwind", "HTML","Javascript(Normal)"],
+    "demo": "https://tailwindproject-skilldrift.netlify.app",
+    "source": "https://github.com/Jatin-chaurasiya/TailwindProject"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/demo2.png",
+    "description": "To create a user-friendly, secure, and feature-rich online store for seamless shopping experiences.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://chaurasiyakrashiseva.netlify.app",
+    "source": "https://github.com/Jatin-chaurasiya/MyShop-Project"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/demo5.png",
+    "description": "This is a project made to learn the latest languages React and then buile.",
+    "skills": ["React", "Tailwind", "HTML"],
+    "demo": "https://passwordgenrator89.netlify.app",
+    "source": "https://github.com/Jatin-chaurasiya/Password-Genrator"
+  },
+  {
+    "title": "Project D",
+    "imageSrc": "projects/demo3.png",
+    "description": "This is a project made to learn React.Basically This is a Currency Converter",
+    "skills": ["React", "Tailwind", "HTML"],
+    "demo": "currency-convertor89.netlify.app",
+    "source": "https://github.com/Jatin-chaurasiya/CurrencyConvertor"
+  },
+  {
+    "title": "Project E",
+    "imageSrc": "projects/demo4.png",
+    "description": "This is a project made to learn React.Basically This is a TodoList",
+    "skills": ["React", "Tailwind", "HTML"],
+    "demo": "todolist-89.netlify.app",
+    "source": "https://github.com/Jatin-chaurasiya/OurTodoList"
+  }
+]

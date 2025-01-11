@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Hackthon",
+    "organisation": "SchorHat",
+    "startDate":"",
+    "endDate": "",
+    "experiences":["3rd Position in Hackthon counducted by SchorHat in our college"],
+    "imageSrc": "history/SchorHat.jpg"
+  },
+  {
+    "role": "No intern in PresentTime",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "",
+      ""
+    ],
+    "imageSrc": "about/cursorIcon.png"
+  }
+]

@@ -1,0 +1,51 @@
+
+[
+  {
+    "title": "HTML",
+    "title1": "(Intermediate)",
+    "imageSrc": "skills/html.png",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+  },
+  {
+    "title": "CSS",
+    "title1": "(Intermediate)",
+    "imageSrc": "skills/css.png",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+  },
+  {
+    "title": "React",
+    "title1": "(Intermediate)",
+    "imageSrc": "skills/react.png",
+    "link": "https://react.dev/learn"
+  },
+  {
+    "title": "Node js",
+    "title1": "(Beginner)",
+    "imageSrc": "skills/node.png",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs"
+  },
+  {
+    "title": "Tailwind Css",
+    "title1": "(Intermediate)",
+    "imageSrc": "skills/taiwind.png",
+    "link": "https://tailwindcss.com/docs/installation"
+  },
+  {
+    "title": "MongoDB",
+    "title1": "(Beginner)",
+    "imageSrc": "skills/mongodb.png",
+    "link": "https://www.mongodb.com/docs/"
+  },
+  {
+    "title": "JAVA",
+    "title1": "(Intermediate)",
+    "imageSrc": "skills/java.webp",
+    "link": "https://developer.mozilla.org/en-US/docs/Glossary/Java"
+  },
+  {
+    "title": "C",
+    "title1": "(Intermediate)",
+    "imageSrc": "skills/C.png",
+    "link": "https://www.w3schools.com/c/index.php"
+  }
+]
