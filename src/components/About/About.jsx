@@ -19,8 +19,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>About Me</h3>
               <p>
-                I am a first year student of ABES Engineering College
-                Ghaziabad.I am doing BTech from CSE-AIML Branch.
+                I am a Second year student of ABES Engineering College
+                Ghaziabad.I am persuing BTech from CSE-AIML Branch.
                 Currently, I'm a intermediate web devoloper.
               </p>
             </div>
